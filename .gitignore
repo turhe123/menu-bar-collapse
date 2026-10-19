@@ -1,0 +1,10 @@
+build*/
+DerivedData/
+*.noindex/
+dist/
+*.xcodeproj/
+xcuserdata/
+.DS_Store
+*.swp
+.build/
+*.pcm
