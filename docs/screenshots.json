@@ -1,0 +1,5 @@
+[
+  {"file":"01-menu.png","caption":"The quick menu, opened by right- or Option-clicking the chevron, with the How to Hide Icons guide expanded alongside Show Hidden Icons, Settings and Support.","alt":"MenuBarCollapse quick menu with How to Hide Icons submenu"},
+  {"file":"02-settings.png","caption":"Settings for the auto-hide delay, expand on hover, divider style, the global ⌥⌘B shortcut and launch at login.","alt":"MenuBarCollapse Settings window"},
+  {"file":"03-welcome.png","caption":"The first-launch welcome window explains the divider and chevron with a small diagram and three steps.","alt":"MenuBarCollapse welcome window with menu bar diagram"}
+]

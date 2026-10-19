@@ -1,5 +1,7 @@
 # MenuBarCollapse
 
+**🌐 Website:** [turhe123.github.io/menu-bar-collapse](https://turhe123.github.io/menu-bar-collapse/)
+
 A tiny divider that hides crowded menu bar icons behind a single click and re-hides them automatically.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -36,7 +38,17 @@ MenuBarCollapse is a free, open-source, 100% native, backend-free alternative to
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-menu.png" alt="MenuBarCollapse quick menu with How to Hide Icons submenu" width="720"></p>
+
+<p align="center"><em>The quick menu, opened by right- or Option-clicking the chevron, with the How to Hide Icons guide expanded alongside Show Hidden Icons, Settings and Support.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-settings.png" alt="MenuBarCollapse Settings window" width="560"></p>
+
+<p align="center"><em>Settings for the auto-hide delay, expand on hover, divider style, the global ⌥⌘B shortcut and launch at login.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-welcome.png" alt="MenuBarCollapse welcome window with menu bar diagram" width="560"></p>
+
+<p align="center"><em>The first-launch welcome window explains the divider and chevron with a small diagram and three steps.</em></p>
 
 ## Install
 

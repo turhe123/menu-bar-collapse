@@ -1,0 +1,60 @@
+{
+  "seo_title": "Hide menu bar icons on macOS",
+  "seo_description": "MenuBarCollapse is a free, open-source macOS utility that hides crowded menu bar icons behind one click and re-hides them automatically. No permissions needed.",
+  "hero_title_line1": "A calmer menu bar,",
+  "hero_title_accent": "one click away.",
+  "hero_sub": "MenuBarCollapse is a tiny divider that tucks crowded menu bar icons out of sight and brings them back on demand. Click the chevron or press the global hotkey, Option-Command-B.",
+  "features_title": "Small by design. Native throughout.",
+  "features_sub": "Everything it does is built on public macOS APIs, with no accounts, no network access and no background services.",
+  "features": [
+    {
+      "icon": "eye",
+      "title": "Hide icons with a divider",
+      "desc": "Command-drag icons to the left of the divider and collapse the bar to push them off screen. The chevron points left when expanded and right when collapsed."
+    },
+    {
+      "icon": "clock",
+      "title": "Automatic re-hiding",
+      "desc": "The bar collapses again after a delay you choose, from 5 to 600 seconds in 5-second steps, or turn the timer off."
+    },
+    {
+      "icon": "keyboard",
+      "title": "Global keyboard shortcut",
+      "desc": "Toggle from any app with Option-Command-B by default. Record your own shortcut in Settings, or clear it."
+    },
+    {
+      "icon": "cursor",
+      "title": "Expand on hover",
+      "desc": "Optionally reveal hidden icons when the pointer reaches the chevron. You can also hide the chevron while the bar is expanded."
+    },
+    {
+      "icon": "shield",
+      "title": "Safe and self-correcting",
+      "desc": "Icons are restored if you quit while collapsed. If the divider ends up right of the chevron, collapsing is refused and the menu tells you how to fix it."
+    },
+    {
+      "icon": "sliders",
+      "title": "Light on your desktop",
+      "desc": "Choose a thin line or a dot for the divider, and launch at login if you like. It runs as an accessory app with no Dock icon."
+    }
+  ],
+  "permissions_step": "No special permissions are required. If you enable Launch at login, macOS may ask you to approve it in System Settings > General > Login Items.",
+  "faq": [
+    {
+      "q": "Is MenuBarCollapse really free and open source?",
+      "a": "Yes. It is released under the MIT license and the full source is on GitHub. There are no accounts, no ads and no paid tier. If it is useful to you, there is an optional Support button in the app."
+    },
+    {
+      "q": "What permissions does it need?",
+      "a": "None for core use. It does not ask for Accessibility or Screen Recording, because collapsing only changes the length of its own status item. It may ask to post a notification if your menu bar is too crowded to show its icons, and macOS may ask you to approve Launch at login."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "Only on your Mac. Your settings are saved in the app's standard macOS preferences, and the app makes no network connections. Menu bar ordering is kept by macOS itself."
+    },
+    {
+      "q": "Why is the app not notarized?",
+      "a": "Notarization requires a paid Apple Developer account, and this is a free project. Right-click the app and choose Open once to get past Gatekeeper, or build it yourself from source with Xcode."
+    }
+  ]
+}
